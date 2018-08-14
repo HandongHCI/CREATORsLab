@@ -2,7 +2,7 @@
 
 <br><br>
 #### 지도교수
-이원섭(Wonsup Lee) [![img/](icon_www_50.png)](https://handonghci.github.io/WonsupLee/) [![img/](icon_github_50.png)]() [![img/](icon_linkedin_50.png)]() [![img/](icon_facebook_50.png)]() [![img/](icon_instagram_50.png)]()
+이원섭(Wonsup Lee) [![Homepage](img/icon_www_50.png)](https://handonghci.github.io/WonsupLee/) [![GitHub](img/icon_github_50.png)]() [![LinkedIn](img/icon_linkedin_50.png)]() [![Facebook](img/icon_facebook_50.png)]() [![Instagram](img/icon_instagram_50.png)]()
 
 #### 학부생
 오준영(13)
